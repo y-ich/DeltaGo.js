@@ -5,7 +5,7 @@
 <dt>models/deltago_metadata.buf</dt>
 <dd>This file was made with DeltaGo's parameter file. See http://home.q00.itscom.net/otsuki/howToUse.txt</dd>
 <dt>js/keras.js</dt>
-<dd>This file includes custom layer 'Bias' as well as Keras.js itself. Bias layer part is MIT license. For Keras.js, see https://github.com/transcranial/keras-js.
+<dd>This file includes custom layer 'Bias' as well as Keras.js itself and its dependencies. Bias layer part is MIT license. For Keras.js, see https://github.com/transcranial/keras-js.
 <dt>js/jgoboard-latest.js, large/*</dt>
 <dd>See http://jgoboard.com/</dd>
 <dt>audio/go-piece1.mp3</dt>
