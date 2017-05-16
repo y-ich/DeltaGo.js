@@ -1,5 +1,5 @@
 # DeltaGo.js
-
+To play, click [here](https://y-ich.github.io/DeltaGo.js/)!
 ## License
 <dl>
 <dt>models/deltago_metadata.buf</dt>
