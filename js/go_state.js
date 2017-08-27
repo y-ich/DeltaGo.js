@@ -61,7 +61,7 @@ class GoInput {
         this.LINE_X_FEATURES = this.TOTAL_FEATURES * this.position.BOARD_SIZE;
         this.array = new Float32Array(this.PLANE_SIZE * this.TOTAL_FEATURES);
         this.index = 0;
-        this.marker = new Marker(this.position.BOARD_SIZE);
+        this.marker1 = new Marker(this.position.BOARD_SIZE);
         this.processPlanes(); // 処理しやすいTHオーダーで処理。
     }
 
@@ -152,9 +152,9 @@ class GoInput {
     }
 
     liberties(view) {
-        this.marker.clear();
+        this.marker1.clear();
         for (let p = 0; p < this.position.BOARD_SIZE2; p++) {
-            if (this.marker.isMarked(p)) {
+            if (this.marker1.isMarked(p)) {
                 continue;
             }
             const string = this.position.stringAt(p);
@@ -163,7 +163,7 @@ class GoInput {
             }
             const liberties = Math.min(string.liberties.length, 8) - 1;
             for (const q of string.points) {
-                this.marker.mark(q);
+                this.marker1.mark(q);
                 view[liberties * this.PLANE_SIZE + q] = 1.0;
             }
         }
@@ -283,7 +283,8 @@ class GoPosition {
             [WHITE]: new Float32Array(this.BOARD_SIZE2)
         }
         this.recent8 = [];
-        this.marker = new Marker(boardSize);
+        this.marker1 = new Marker(boardSize);
+        this.marker2 = new Marker(boardSize);
         if (handicap > 1) {
             for (const xy of HANDICAPS[handicap]) {
                 this.setState(this.xyToPoint(xy[0], xy[1]), BLACK);
@@ -355,19 +356,24 @@ class GoPosition {
         const opponent = opponentOf(color);
         const string = new GoString();
 
-        this.marker.clear();
+        this.marker1.clear();
+        this.marker2.clear();
         string.points.push(point);
+        this.marker2.mark(point);
         for (let index = 0; index < string.points.length; index++) {
             const pt = string.points[index];
-            if (!this.marker.isMarked(pt)) {
-                this.marker.mark(pt);
+            if (!this.marker1.isMarked(pt)) {
+                this.marker1.mark(pt);
                 for (const a of this.adjacenciesAt(pt)) {
-                    if (!this.marker.isMarked(a)) {
+                    if (!this.marker1.isMarked(a)) {
                         const state = this.getState(a);
                         if (state === color) {
-                            string.points.push(a);
+                            if (!this.marker2.isMarked(a)) {
+                                string.points.push(a);
+                                this.marker2.mark(a);
+                            }
                         } else {
-                            this.marker.mark(a);
+                            this.marker1.mark(a);
                             if (state === opponent) {
                                 string.opponents.push(a);
                             } else {
