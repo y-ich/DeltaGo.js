@@ -1,0 +1,3104 @@
+{
+  "inputs": [
+    "Variable0"
+  ],
+  "outputs": [
+    "Variable29"
+  ],
+  "memory_layout": {
+    "static": {
+      "size": -1,
+      "allocations": {
+        "Variable56": {
+          "name": "Variable56",
+          "offset": -1,
+          "size": 433200,
+          "width": 300,
+          "height": 361,
+          "channel_mode": "RGBA"
+        },
+        "ConstantVariable18": {
+          "name": "ConstantVariable18",
+          "offset": -1,
+          "size": 331776,
+          "width": 432,
+          "height": 192,
+          "channel_mode": "RGBA"
+        },
+        "ConstantVariable20": {
+          "name": "ConstantVariable20",
+          "offset": -1,
+          "size": 331776,
+          "width": 432,
+          "height": 192,
+          "channel_mode": "RGBA"
+        },
+        "Variable2": {
+          "name": "Variable2",
+          "offset": -1,
+          "size": 69632,
+          "width": 4096,
+          "height": 17,
+          "channel_mode": "R"
+        },
+        "Variable18": {
+          "name": "Variable18",
+          "offset": -1,
+          "size": 86016,
+          "width": 4096,
+          "height": 21,
+          "channel_mode": "R"
+        },
+        "Variable3": {
+          "name": "Variable3",
+          "offset": -1,
+          "size": 69632,
+          "width": 4096,
+          "height": 17,
+          "channel_mode": "R"
+        },
+        "Variable58": {
+          "name": "Variable58",
+          "offset": -1,
+          "size": 762048,
+          "width": 432,
+          "height": 441,
+          "channel_mode": "RGBA"
+        },
+        "Variable5": {
+          "name": "Variable5",
+          "offset": -1,
+          "size": 86016,
+          "width": 4096,
+          "height": 21,
+          "channel_mode": "R"
+        },
+        "Variable6": {
+          "name": "Variable6",
+          "offset": -1,
+          "size": 86016,
+          "width": 4096,
+          "height": 21,
+          "channel_mode": "R"
+        },
+        "ConstantVariable15": {
+          "name": "ConstantVariable15",
+          "offset": -1,
+          "size": 331776,
+          "width": 432,
+          "height": 192,
+          "channel_mode": "RGBA"
+        },
+        "ConstantVariable17": {
+          "name": "ConstantVariable17",
+          "offset": -1,
+          "size": 331776,
+          "width": 432,
+          "height": 192,
+          "channel_mode": "RGBA"
+        },
+        "Variable62": {
+          "name": "Variable62",
+          "offset": -1,
+          "size": 762048,
+          "width": 432,
+          "height": 441,
+          "channel_mode": "RGBA"
+        },
+        "ConstantVariable19": {
+          "name": "ConstantVariable19",
+          "offset": -1,
+          "size": 331776,
+          "width": 432,
+          "height": 192,
+          "channel_mode": "RGBA"
+        },
+        "Variable78": {
+          "name": "Variable78",
+          "offset": -1,
+          "size": 623808,
+          "width": 432,
+          "height": 361,
+          "channel_mode": "RGBA"
+        },
+        "Variable10": {
+          "name": "Variable10",
+          "offset": -1,
+          "size": 86016,
+          "width": 4096,
+          "height": 21,
+          "channel_mode": "R"
+        },
+        "Variable80": {
+          "name": "Variable80",
+          "offset": -1,
+          "size": 69312,
+          "width": 48,
+          "height": 361,
+          "channel_mode": "RGBA"
+        },
+        "Variable27": {
+          "name": "Variable27",
+          "offset": -1,
+          "size": 361,
+          "width": 361,
+          "height": 1,
+          "channel_mode": "R"
+        },
+        "ConstantVariable14": {
+          "name": "ConstantVariable14",
+          "offset": -1,
+          "size": 230400,
+          "width": 300,
+          "height": 192,
+          "channel_mode": "RGBA"
+        },
+        "Variable28": {
+          "name": "Variable28",
+          "offset": -1,
+          "size": 361,
+          "width": 361,
+          "height": 1,
+          "channel_mode": "R"
+        },
+        "ConstantVariable21": {
+          "name": "ConstantVariable21",
+          "offset": -1,
+          "size": 331776,
+          "width": 432,
+          "height": 192,
+          "channel_mode": "RGBA"
+        },
+        "ConstantVariable22": {
+          "name": "ConstantVariable22",
+          "offset": -1,
+          "size": 331776,
+          "width": 432,
+          "height": 192,
+          "channel_mode": "RGBA"
+        },
+        "ConstantVariable23": {
+          "name": "ConstantVariable23",
+          "offset": -1,
+          "size": 331776,
+          "width": 432,
+          "height": 192,
+          "channel_mode": "RGBA"
+        },
+        "Variable70": {
+          "name": "Variable70",
+          "offset": -1,
+          "size": 762048,
+          "width": 432,
+          "height": 441,
+          "channel_mode": "RGBA"
+        },
+        "ConstantVariable24": {
+          "name": "ConstantVariable24",
+          "offset": -1,
+          "size": 331776,
+          "width": 432,
+          "height": 192,
+          "channel_mode": "RGBA"
+        },
+        "ConstantVariable25": {
+          "name": "ConstantVariable25",
+          "offset": -1,
+          "size": 331776,
+          "width": 432,
+          "height": 192,
+          "channel_mode": "RGBA"
+        },
+        "ConstantVariable26": {
+          "name": "ConstantVariable26",
+          "offset": -1,
+          "size": 192,
+          "width": 48,
+          "height": 1,
+          "channel_mode": "RGBA"
+        },
+        "ConstantVariable13": {
+          "name": "ConstantVariable13",
+          "offset": -1,
+          "size": 361,
+          "width": 361,
+          "height": 1,
+          "channel_mode": "R"
+        },
+        "Variable0": {
+          "name": "Variable0",
+          "offset": -1,
+          "size": 20480,
+          "width": 4096,
+          "height": 5,
+          "channel_mode": "R"
+        },
+        "Variable29": {
+          "name": "Variable29",
+          "offset": -1,
+          "size": 361,
+          "width": 361,
+          "height": 1,
+          "channel_mode": "R"
+        },
+        "ConstantVariable16": {
+          "name": "ConstantVariable16",
+          "offset": -1,
+          "size": 331776,
+          "width": 432,
+          "height": 192,
+          "channel_mode": "RGBA"
+        }
+      }
+    },
+    "dynamic": {
+      "size": -1,
+      "allocations": {}
+    },
+    "mapping": {
+      "Variable0": "Variable0",
+      "Variable56": "Variable56",
+      "Variable2": "Variable2",
+      "Variable3": "Variable3",
+      "Variable58": "Variable58",
+      "Variable5": "Variable5",
+      "Variable6": "Variable6",
+      "Variable60": "Variable58",
+      "Variable7": "Variable5",
+      "Variable8": "Variable6",
+      "Variable62": "Variable62",
+      "Variable9": "Variable5",
+      "Variable10": "Variable10",
+      "Variable64": "Variable58",
+      "Variable11": "Variable5",
+      "Variable12": "Variable6",
+      "Variable66": "Variable62",
+      "Variable13": "Variable5",
+      "Variable14": "Variable10",
+      "Variable68": "Variable58",
+      "Variable15": "Variable5",
+      "Variable16": "Variable6",
+      "Variable70": "Variable70",
+      "Variable17": "Variable5",
+      "Variable18": "Variable18",
+      "Variable72": "Variable58",
+      "Variable19": "Variable5",
+      "Variable20": "Variable6",
+      "Variable74": "Variable62",
+      "Variable21": "Variable5",
+      "Variable22": "Variable10",
+      "Variable76": "Variable58",
+      "Variable23": "Variable5",
+      "Variable24": "Variable6",
+      "Variable78": "Variable78",
+      "Variable25": "Variable2",
+      "Variable26": "Variable3",
+      "Variable80": "Variable80",
+      "Variable27": "Variable27",
+      "Variable28": "Variable28",
+      "Variable29": "Variable29",
+      "ConstantVariable14": "ConstantVariable14",
+      "ConstantVariable15": "ConstantVariable15",
+      "ConstantVariable16": "ConstantVariable16",
+      "ConstantVariable17": "ConstantVariable17",
+      "ConstantVariable18": "ConstantVariable18",
+      "ConstantVariable19": "ConstantVariable19",
+      "ConstantVariable20": "ConstantVariable20",
+      "ConstantVariable21": "ConstantVariable21",
+      "ConstantVariable22": "ConstantVariable22",
+      "ConstantVariable23": "ConstantVariable23",
+      "ConstantVariable24": "ConstantVariable24",
+      "ConstantVariable25": "ConstantVariable25",
+      "ConstantVariable26": "ConstantVariable26",
+      "ConstantVariable13": "ConstantVariable13"
+    }
+  },
+  "weight_encoding": "raw",
+  "placeholders": [],
+  "shader_sources": {
+    "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394": "\nprecision highp float;\nprecision highp int;\n\nint mod(int x, int p) { return x-(x/p)*p; }\nivec2 mod(int x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(int x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(int x, ivec4 p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, int p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, int p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, int p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, ivec4 p) { return x-(x/p)*p; }\n\nivec2 convert_position_i(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\n\nvec2 convert_position(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\n\nvec2 convert_coord(vec2 p1, vec2 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec2 p1, vec2 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec2 convert_coord(vec4 p1, vec4 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec4 p1, vec4 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\n\nuniform sampler2D im;\n\nuniform vec2 s_col;\nuniform vec4 d_Col;\nuniform vec4 s_Col;\n\nuniform vec2 d_im;\nuniform vec2 s_im;\nuniform vec4 d_Im;\nuniform vec4 s_Im;\n\nuniform int C1;\nuniform int H1;\nuniform int W1;\nuniform int KH;\nuniform int KW;\nuniform int DH;\nuniform int DW;\nuniform int SH;\nuniform int SW;\nuniform int PH;\nuniform int PW;\n\nvoid main() {\n    ivec4 p_Col = convert_position_i(gl_FragCoord.xy, s_col, s_Col, d_Col);\n\n    int n  = p_Col.x;\n    int h2 = p_Col.y;\n    int w2 = p_Col.z;\n    int khkwc1 = p_Col.w;\n    int kh = khkwc1 / C1 / KW;\n    int kw = khkwc1 / C1 - kh * KW;\n    int c1 = khkwc1 - (kh * KW + kw) * C1;\n\n    int h1 = h2 * SH - PH + kh * DH;\n    int w1 = w2 * SW - PW + kw * DW;\n\n    float v0 = (h1 < 0 || h1 >= H1 || w1 < 0 || w1 >= W1) ? 0.0 : texture2D(im, convert_coord(vec4(n, h1, w1, c1 + 0) + 0.5, s_Im, s_im, d_im)).r;\n    float v1 = (h1 < 0 || h1 >= H1 || w1 < 0 || w1 >= W1) ? 0.0 : texture2D(im, convert_coord(vec4(n, h1, w1, c1 + 1) + 0.5, s_Im, s_im, d_im)).r;\n    float v2 = (h1 < 0 || h1 >= H1 || w1 < 0 || w1 >= W1) ? 0.0 : texture2D(im, convert_coord(vec4(n, h1, w1, c1 + 2) + 0.5, s_Im, s_im, d_im)).r;\n    float v3 = (h1 < 0 || h1 >= H1 || w1 < 0 || w1 >= W1) ? 0.0 : texture2D(im, convert_coord(vec4(n, h1, w1, c1 + 3) + 0.5, s_Im, s_im, d_im)).r;\n    \n    gl_FragColor = vec4(v0, v1, v2, v3);\n\n}\n",
+    "sgemm_50eb47e88045d372388921c1b421faf9e9c6818721939bb3d18fa31f": "\nprecision highp float;\nprecision highp int;\n\nint mod(int x, int p) { return x-(x/p)*p; }\nivec2 mod(int x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(int x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(int x, ivec4 p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, int p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, int p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, int p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, ivec4 p) { return x-(x/p)*p; }\n\nivec2 convert_position_i(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\n\nvec2 convert_position(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\n\nvec2 convert_coord(vec2 p1, vec2 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec2 p1, vec2 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec2 convert_coord(vec4 p1, vec4 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec4 p1, vec4 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\n\nuniform sampler2D A;\nuniform sampler2D B;\n\nuniform vec2 s_c;\nuniform vec2 d_C;\nuniform vec2 s_C;\n\nuniform vec2 d_a;\nuniform vec2 d_b;\n\nvoid main() {\n    ivec2 p_C = convert_position_i(gl_FragCoord.xy, s_c, s_C, d_C);\n    \n    int m = p_C.x;\n    int n = p_C.y;\n\n    float v = 0.0;\n\n    for (int k = 0; k < 300; k++) {\n        vec4 v_a = texture2D(A, fract((vec2(k, m) + 0.5) / d_a));\n        vec4 v_b = texture2D(B, fract((vec2(k, n) + 0.5) / d_b));\n\n        v += dot(v_a, v_b);\n    }\n\n    gl_FragColor = vec4(v, 0, 0, 0);\n}\n",
+    "relu_8bf0b03cc958649370c41055e324db390c34d13376a5373d6ff9fb6d": "\nprecision highp float;\nprecision highp int;\n\nint mod(int x, int p) { return x-(x/p)*p; }\nivec2 mod(int x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(int x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(int x, ivec4 p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, int p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, int p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, int p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, ivec4 p) { return x-(x/p)*p; }\n\nivec2 convert_position_i(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\n\nvec2 convert_position(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\n\nvec2 convert_coord(vec2 p1, vec2 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec2 p1, vec2 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec2 convert_coord(vec4 p1, vec4 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec4 p1, vec4 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\n\nuniform sampler2D sampler_x0;\nuniform vec2 texture_shape_x0;\n    \n\nvoid main() {\n    float y;\n\n\nfloat x0 = texture2D(sampler_x0, gl_FragCoord.xy / texture_shape_x0).r;\ny = x0 < 0.0 ? 0.0 : x0;\n\n    gl_FragColor = vec4(y, 0, 0, 0);\n}\n",
+    "sgemm_f96e1136c870e72e52efd8eef3eead64ac103fad4438e4331056c3ff": "\nprecision highp float;\nprecision highp int;\n\nint mod(int x, int p) { return x-(x/p)*p; }\nivec2 mod(int x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(int x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(int x, ivec4 p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, int p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, int p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, int p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, ivec4 p) { return x-(x/p)*p; }\n\nivec2 convert_position_i(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\n\nvec2 convert_position(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\n\nvec2 convert_coord(vec2 p1, vec2 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec2 p1, vec2 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec2 convert_coord(vec4 p1, vec4 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec4 p1, vec4 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\n\nuniform sampler2D A;\nuniform sampler2D B;\n\nuniform vec2 s_c;\nuniform vec2 d_C;\nuniform vec2 s_C;\n\nuniform vec2 d_a;\nuniform vec2 d_b;\n\nvoid main() {\n    ivec2 p_C = convert_position_i(gl_FragCoord.xy, s_c, s_C, d_C);\n    \n    int m = p_C.x;\n    int n = p_C.y;\n\n    float v = 0.0;\n\n    for (int k = 0; k < 432; k++) {\n        vec4 v_a = texture2D(A, fract((vec2(k, m) + 0.5) / d_a));\n        vec4 v_b = texture2D(B, fract((vec2(k, n) + 0.5) / d_b));\n\n        v += dot(v_a, v_b);\n    }\n\n    gl_FragColor = vec4(v, 0, 0, 0);\n}\n",
+    "sgemm_bdf2e03341da62d8ca97bad39877eb72c2ec7a691d57610d4ad83236": "\nprecision highp float;\nprecision highp int;\n\nint mod(int x, int p) { return x-(x/p)*p; }\nivec2 mod(int x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(int x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(int x, ivec4 p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, int p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, int p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, int p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, ivec4 p) { return x-(x/p)*p; }\n\nivec2 convert_position_i(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\n\nvec2 convert_position(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\n\nvec2 convert_coord(vec2 p1, vec2 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec2 p1, vec2 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec2 convert_coord(vec4 p1, vec4 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec4 p1, vec4 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\n\nuniform sampler2D A;\nuniform sampler2D B;\n\nuniform vec2 s_c;\nuniform vec2 d_C;\nuniform vec2 s_C;\n\nuniform vec2 d_a;\nuniform vec2 d_b;\n\nvoid main() {\n    ivec2 p_C = convert_position_i(gl_FragCoord.xy, s_c, s_C, d_C);\n    \n    int m = p_C.x;\n    int n = p_C.y;\n\n    float v = 0.0;\n\n    for (int k = 0; k < 48; k++) {\n        vec4 v_a = texture2D(A, fract((vec2(k, m) + 0.5) / d_a));\n        vec4 v_b = texture2D(B, fract((vec2(k, n) + 0.5) / d_b));\n\n        v += dot(v_a, v_b);\n    }\n\n    gl_FragColor = vec4(v, 0, 0, 0);\n}\n",
+    "reshape_4c29b12b0d5407a59038acc11bd8c169f7e7e7758be69c25c9b25116": "\nprecision highp float;\nprecision highp int;\n\nint mod(int x, int p) { return x-(x/p)*p; }\nivec2 mod(int x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(int x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(int x, ivec4 p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, int p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, int p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, int p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, ivec4 p) { return x-(x/p)*p; }\n\nivec2 convert_position_i(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\n\nvec2 convert_position(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\n\nvec2 convert_coord(vec2 p1, vec2 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec2 p1, vec2 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec2 convert_coord(vec4 p1, vec4 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec4 p1, vec4 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\n\nuniform sampler2D X;\n\nuniform vec2 s_y;\n\nuniform vec2 d_x;\nuniform vec2 s_x;\n\nvoid main() {\n    float x = texture2D(X, fract((floor((dot(gl_FragCoord.xy - 0.5, s_y) + 0.5) / s_x) + 0.5) / d_x)).r;\n    gl_FragColor = vec4(x, 0, 0, 0);\n}\n",
+    "elementwiseadd_30afc3ec75b3c547f44e699cd93b388f2c03680e2e90441d4f96d963": "\nprecision highp float;\nprecision highp int;\n\nint mod(int x, int p) { return x-(x/p)*p; }\nivec2 mod(int x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(int x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(int x, ivec4 p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, int p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, int p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, int p) { return x-(x/p)*p; }\nivec2 mod(ivec2 x, ivec2 p) { return x-(x/p)*p; }\nivec3 mod(ivec3 x, ivec3 p) { return x-(x/p)*p; }\nivec4 mod(ivec4 x, ivec4 p) { return x-(x/p)*p; }\n\nivec2 convert_position_i(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    ivec2 ind_partial = ivec2(p1) * ivec2(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    ivec3 ind_partial = ivec3(p1) * ivec3(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec2 convert_position_i(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec2 s2i = ivec2(s2);\n    ivec2 d2i = ivec2(d2);\n\n    ivec2 index;\n    ivec2 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec2 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec3 convert_position_i(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec3 s2i = ivec3(s2);\n    ivec3 d2i = ivec3(d2);\n\n    ivec3 index;\n    ivec3 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec3 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\nivec4 convert_position_i(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    ivec4 ind_partial = ivec4(p1) * ivec4(s1);\n    ivec4 s2i = ivec4(s2);\n    ivec4 d2i = ivec4(d2);\n\n    ivec4 index;\n    ivec4 p2i;\n    \n    index *= 0;\n    p2i *= 0;\n\n    ivec4 m;\n    \n            index += ind_partial[0];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[1];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[2];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n            index += ind_partial[3];\n            m = index / s2i;\n            p2i += m;\n            index -= m*s2i;\n        \n\n    return p2i-(p2i/d2i)*d2i;\n}\n\n\nvec2 convert_position(vec2 p1, vec2 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec2 p1, vec2 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec2 p1, vec2 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec3 p1, vec3 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec3 p1, vec3 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec3 p1, vec3 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec2 convert_position(vec4 p1, vec4 s1, vec2 s2, vec2 d2) {\n    return vec2(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec3 convert_position(vec4 p1, vec4 s1, vec3 s2, vec3 d2) {\n    return vec3(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\nvec4 convert_position(vec4 p1, vec4 s1, vec4 s2, vec4 d2) {\n    return vec4(convert_position_i(p1, s1, s2, d2)) + 0.5;\n}\n\n\nvec2 convert_coord(vec2 p1, vec2 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec2 p1, vec2 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec2 convert_coord(vec4 p1, vec4 s1, vec2 s2, vec2 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\nvec4 convert_coord(vec4 p1, vec4 s1, vec4 s2, vec4 d2) { return fract((floor(dot(p1 - 0.5, s1) / s2) + 0.5) / d2); }\n\nuniform vec2 texture_stride_y;\nuniform vec4 variable_shape_y;\nuniform vec4 variable_stride_y;\n\n\nuniform sampler2D sampler_x0;\nuniform vec2 texture_shape_x0;\nuniform vec2 texture_stride_x0;\nuniform vec4 variable_shape_x0;\nuniform vec4 variable_stride_x0;\n\n\nuniform sampler2D sampler_x1;\nuniform vec2 texture_shape_x1;\nuniform vec2 texture_stride_x1;\nuniform vec4 variable_shape_x1;\nuniform vec4 variable_stride_x1;\n\n\nvoid main() {\n    float y;\n\n    vec4 variable_position_y = convert_position(gl_FragCoord.xy, texture_stride_y, variable_stride_y, variable_shape_y);    \n\n\nvec4 variable_position_x0 = mod(variable_position_y, variable_shape_x0);\nvec2 texture_position_x0 = convert_coord(variable_position_x0, variable_stride_x0, texture_stride_x0, texture_shape_x0);\nfloat x0 = texture2D(sampler_x0, texture_position_x0).r;\n\n\nvec4 variable_position_x1 = mod(variable_position_y, variable_shape_x1);\nvec2 texture_position_x1 = convert_coord(variable_position_x1, variable_stride_x1, texture_stride_x1, texture_shape_x1);\nfloat x1 = texture2D(sampler_x1, texture_position_x1).r;\ny = x0 + x1;\n\n    gl_FragColor = vec4(y, 0, 0, 0);\n}\n"
+  },
+  "exec_infos": [
+    {
+      "shader_name": "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394",
+      "inputs": [
+        {
+          "variable_name": "Variable0",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "PW": {
+          "type": "int",
+          "value": 2
+        },
+        "PH": {
+          "type": "int",
+          "value": 2
+        },
+        "SW": {
+          "type": "int",
+          "value": 1
+        },
+        "SH": {
+          "type": "int",
+          "value": 1
+        },
+        "DW": {
+          "type": "int",
+          "value": 1
+        },
+        "DH": {
+          "type": "int",
+          "value": 1
+        },
+        "KW": {
+          "type": "int",
+          "value": 5
+        },
+        "KH": {
+          "type": "int",
+          "value": 5
+        },
+        "W1": {
+          "type": "int",
+          "value": 19
+        },
+        "H1": {
+          "type": "int",
+          "value": 19
+        },
+        "C1": {
+          "type": "int",
+          "value": 48
+        },
+        "s_Im": {
+          "type": "vec4",
+          "value": [
+            17328,
+            912,
+            48,
+            1
+          ]
+        },
+        "d_Im": {
+          "type": "vec4",
+          "value": [
+            1,
+            19,
+            19,
+            48
+          ]
+        },
+        "s_im": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "d_im": {
+          "type": "vec2",
+          "value": [
+            4096,
+            5
+          ]
+        },
+        "s_Col": {
+          "type": "vec4",
+          "value": [
+            433200,
+            22800,
+            1200,
+            1
+          ]
+        },
+        "d_Col": {
+          "type": "vec4",
+          "value": [
+            1,
+            19,
+            19,
+            1200
+          ]
+        },
+        "s_col": {
+          "type": "vec2",
+          "value": [
+            4,
+            1200
+          ]
+        },
+        "im": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable56"
+    },
+    {
+      "shader_name": "sgemm_50eb47e88045d372388921c1b421faf9e9c6818721939bb3d18fa31f",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable14",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable56",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "d_b": {
+          "type": "vec2",
+          "value": [
+            300,
+            192
+          ]
+        },
+        "d_a": {
+          "type": "vec2",
+          "value": [
+            300,
+            361
+          ]
+        },
+        "s_C": {
+          "type": "vec2",
+          "value": [
+            192,
+            1
+          ]
+        },
+        "d_C": {
+          "type": "vec2",
+          "value": [
+            361,
+            192
+          ]
+        },
+        "s_c": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "B": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "A": {
+          "type": "sampler2D",
+          "value": 1
+        }
+      },
+      "output": "Variable2"
+    },
+    {
+      "shader_name": "relu_8bf0b03cc958649370c41055e324db390c34d13376a5373d6ff9fb6d",
+      "inputs": [
+        {
+          "variable_name": "Variable2",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "texture_shape_x0": {
+          "type": "vec2",
+          "value": [
+            4096,
+            17
+          ]
+        },
+        "sampler_x0": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable3"
+    },
+    {
+      "shader_name": "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394",
+      "inputs": [
+        {
+          "variable_name": "Variable3",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "PW": {
+          "type": "int",
+          "value": 2
+        },
+        "PH": {
+          "type": "int",
+          "value": 2
+        },
+        "SW": {
+          "type": "int",
+          "value": 1
+        },
+        "SH": {
+          "type": "int",
+          "value": 1
+        },
+        "DW": {
+          "type": "int",
+          "value": 1
+        },
+        "DH": {
+          "type": "int",
+          "value": 1
+        },
+        "KW": {
+          "type": "int",
+          "value": 3
+        },
+        "KH": {
+          "type": "int",
+          "value": 3
+        },
+        "W1": {
+          "type": "int",
+          "value": 19
+        },
+        "H1": {
+          "type": "int",
+          "value": 19
+        },
+        "C1": {
+          "type": "int",
+          "value": 192
+        },
+        "s_Im": {
+          "type": "vec4",
+          "value": [
+            69312,
+            3648,
+            192,
+            1
+          ]
+        },
+        "d_Im": {
+          "type": "vec4",
+          "value": [
+            1,
+            19,
+            19,
+            192
+          ]
+        },
+        "s_im": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "d_im": {
+          "type": "vec2",
+          "value": [
+            4096,
+            17
+          ]
+        },
+        "s_Col": {
+          "type": "vec4",
+          "value": [
+            762048,
+            36288,
+            1728,
+            1
+          ]
+        },
+        "d_Col": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            1728
+          ]
+        },
+        "s_col": {
+          "type": "vec2",
+          "value": [
+            4,
+            1728
+          ]
+        },
+        "im": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable58"
+    },
+    {
+      "shader_name": "sgemm_f96e1136c870e72e52efd8eef3eead64ac103fad4438e4331056c3ff",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable15",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable58",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "d_b": {
+          "type": "vec2",
+          "value": [
+            432,
+            192
+          ]
+        },
+        "d_a": {
+          "type": "vec2",
+          "value": [
+            432,
+            441
+          ]
+        },
+        "s_C": {
+          "type": "vec2",
+          "value": [
+            192,
+            1
+          ]
+        },
+        "d_C": {
+          "type": "vec2",
+          "value": [
+            441,
+            192
+          ]
+        },
+        "s_c": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "B": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "A": {
+          "type": "sampler2D",
+          "value": 1
+        }
+      },
+      "output": "Variable5"
+    },
+    {
+      "shader_name": "relu_8bf0b03cc958649370c41055e324db390c34d13376a5373d6ff9fb6d",
+      "inputs": [
+        {
+          "variable_name": "Variable5",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "texture_shape_x0": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "sampler_x0": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable6"
+    },
+    {
+      "shader_name": "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394",
+      "inputs": [
+        {
+          "variable_name": "Variable6",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "PW": {
+          "type": "int",
+          "value": 1
+        },
+        "PH": {
+          "type": "int",
+          "value": 1
+        },
+        "SW": {
+          "type": "int",
+          "value": 1
+        },
+        "SH": {
+          "type": "int",
+          "value": 1
+        },
+        "DW": {
+          "type": "int",
+          "value": 1
+        },
+        "DH": {
+          "type": "int",
+          "value": 1
+        },
+        "KW": {
+          "type": "int",
+          "value": 3
+        },
+        "KH": {
+          "type": "int",
+          "value": 3
+        },
+        "W1": {
+          "type": "int",
+          "value": 21
+        },
+        "H1": {
+          "type": "int",
+          "value": 21
+        },
+        "C1": {
+          "type": "int",
+          "value": 192
+        },
+        "s_Im": {
+          "type": "vec4",
+          "value": [
+            84672,
+            4032,
+            192,
+            1
+          ]
+        },
+        "d_Im": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            192
+          ]
+        },
+        "s_im": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "d_im": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "s_Col": {
+          "type": "vec4",
+          "value": [
+            762048,
+            36288,
+            1728,
+            1
+          ]
+        },
+        "d_Col": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            1728
+          ]
+        },
+        "s_col": {
+          "type": "vec2",
+          "value": [
+            4,
+            1728
+          ]
+        },
+        "im": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable60"
+    },
+    {
+      "shader_name": "sgemm_f96e1136c870e72e52efd8eef3eead64ac103fad4438e4331056c3ff",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable16",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable60",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "d_b": {
+          "type": "vec2",
+          "value": [
+            432,
+            192
+          ]
+        },
+        "d_a": {
+          "type": "vec2",
+          "value": [
+            432,
+            441
+          ]
+        },
+        "s_C": {
+          "type": "vec2",
+          "value": [
+            192,
+            1
+          ]
+        },
+        "d_C": {
+          "type": "vec2",
+          "value": [
+            441,
+            192
+          ]
+        },
+        "s_c": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "B": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "A": {
+          "type": "sampler2D",
+          "value": 1
+        }
+      },
+      "output": "Variable7"
+    },
+    {
+      "shader_name": "relu_8bf0b03cc958649370c41055e324db390c34d13376a5373d6ff9fb6d",
+      "inputs": [
+        {
+          "variable_name": "Variable7",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "texture_shape_x0": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "sampler_x0": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable8"
+    },
+    {
+      "shader_name": "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394",
+      "inputs": [
+        {
+          "variable_name": "Variable8",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "PW": {
+          "type": "int",
+          "value": 1
+        },
+        "PH": {
+          "type": "int",
+          "value": 1
+        },
+        "SW": {
+          "type": "int",
+          "value": 1
+        },
+        "SH": {
+          "type": "int",
+          "value": 1
+        },
+        "DW": {
+          "type": "int",
+          "value": 1
+        },
+        "DH": {
+          "type": "int",
+          "value": 1
+        },
+        "KW": {
+          "type": "int",
+          "value": 3
+        },
+        "KH": {
+          "type": "int",
+          "value": 3
+        },
+        "W1": {
+          "type": "int",
+          "value": 21
+        },
+        "H1": {
+          "type": "int",
+          "value": 21
+        },
+        "C1": {
+          "type": "int",
+          "value": 192
+        },
+        "s_Im": {
+          "type": "vec4",
+          "value": [
+            84672,
+            4032,
+            192,
+            1
+          ]
+        },
+        "d_Im": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            192
+          ]
+        },
+        "s_im": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "d_im": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "s_Col": {
+          "type": "vec4",
+          "value": [
+            762048,
+            36288,
+            1728,
+            1
+          ]
+        },
+        "d_Col": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            1728
+          ]
+        },
+        "s_col": {
+          "type": "vec2",
+          "value": [
+            4,
+            1728
+          ]
+        },
+        "im": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable62"
+    },
+    {
+      "shader_name": "sgemm_f96e1136c870e72e52efd8eef3eead64ac103fad4438e4331056c3ff",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable17",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable62",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "d_b": {
+          "type": "vec2",
+          "value": [
+            432,
+            192
+          ]
+        },
+        "d_a": {
+          "type": "vec2",
+          "value": [
+            432,
+            441
+          ]
+        },
+        "s_C": {
+          "type": "vec2",
+          "value": [
+            192,
+            1
+          ]
+        },
+        "d_C": {
+          "type": "vec2",
+          "value": [
+            441,
+            192
+          ]
+        },
+        "s_c": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "B": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "A": {
+          "type": "sampler2D",
+          "value": 1
+        }
+      },
+      "output": "Variable9"
+    },
+    {
+      "shader_name": "relu_8bf0b03cc958649370c41055e324db390c34d13376a5373d6ff9fb6d",
+      "inputs": [
+        {
+          "variable_name": "Variable9",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "texture_shape_x0": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "sampler_x0": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable10"
+    },
+    {
+      "shader_name": "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394",
+      "inputs": [
+        {
+          "variable_name": "Variable10",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "PW": {
+          "type": "int",
+          "value": 1
+        },
+        "PH": {
+          "type": "int",
+          "value": 1
+        },
+        "SW": {
+          "type": "int",
+          "value": 1
+        },
+        "SH": {
+          "type": "int",
+          "value": 1
+        },
+        "DW": {
+          "type": "int",
+          "value": 1
+        },
+        "DH": {
+          "type": "int",
+          "value": 1
+        },
+        "KW": {
+          "type": "int",
+          "value": 3
+        },
+        "KH": {
+          "type": "int",
+          "value": 3
+        },
+        "W1": {
+          "type": "int",
+          "value": 21
+        },
+        "H1": {
+          "type": "int",
+          "value": 21
+        },
+        "C1": {
+          "type": "int",
+          "value": 192
+        },
+        "s_Im": {
+          "type": "vec4",
+          "value": [
+            84672,
+            4032,
+            192,
+            1
+          ]
+        },
+        "d_Im": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            192
+          ]
+        },
+        "s_im": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "d_im": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "s_Col": {
+          "type": "vec4",
+          "value": [
+            762048,
+            36288,
+            1728,
+            1
+          ]
+        },
+        "d_Col": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            1728
+          ]
+        },
+        "s_col": {
+          "type": "vec2",
+          "value": [
+            4,
+            1728
+          ]
+        },
+        "im": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable64"
+    },
+    {
+      "shader_name": "sgemm_f96e1136c870e72e52efd8eef3eead64ac103fad4438e4331056c3ff",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable18",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable64",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "d_b": {
+          "type": "vec2",
+          "value": [
+            432,
+            192
+          ]
+        },
+        "d_a": {
+          "type": "vec2",
+          "value": [
+            432,
+            441
+          ]
+        },
+        "s_C": {
+          "type": "vec2",
+          "value": [
+            192,
+            1
+          ]
+        },
+        "d_C": {
+          "type": "vec2",
+          "value": [
+            441,
+            192
+          ]
+        },
+        "s_c": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "B": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "A": {
+          "type": "sampler2D",
+          "value": 1
+        }
+      },
+      "output": "Variable11"
+    },
+    {
+      "shader_name": "relu_8bf0b03cc958649370c41055e324db390c34d13376a5373d6ff9fb6d",
+      "inputs": [
+        {
+          "variable_name": "Variable11",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "texture_shape_x0": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "sampler_x0": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable12"
+    },
+    {
+      "shader_name": "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394",
+      "inputs": [
+        {
+          "variable_name": "Variable12",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "PW": {
+          "type": "int",
+          "value": 1
+        },
+        "PH": {
+          "type": "int",
+          "value": 1
+        },
+        "SW": {
+          "type": "int",
+          "value": 1
+        },
+        "SH": {
+          "type": "int",
+          "value": 1
+        },
+        "DW": {
+          "type": "int",
+          "value": 1
+        },
+        "DH": {
+          "type": "int",
+          "value": 1
+        },
+        "KW": {
+          "type": "int",
+          "value": 3
+        },
+        "KH": {
+          "type": "int",
+          "value": 3
+        },
+        "W1": {
+          "type": "int",
+          "value": 21
+        },
+        "H1": {
+          "type": "int",
+          "value": 21
+        },
+        "C1": {
+          "type": "int",
+          "value": 192
+        },
+        "s_Im": {
+          "type": "vec4",
+          "value": [
+            84672,
+            4032,
+            192,
+            1
+          ]
+        },
+        "d_Im": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            192
+          ]
+        },
+        "s_im": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "d_im": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "s_Col": {
+          "type": "vec4",
+          "value": [
+            762048,
+            36288,
+            1728,
+            1
+          ]
+        },
+        "d_Col": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            1728
+          ]
+        },
+        "s_col": {
+          "type": "vec2",
+          "value": [
+            4,
+            1728
+          ]
+        },
+        "im": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable66"
+    },
+    {
+      "shader_name": "sgemm_f96e1136c870e72e52efd8eef3eead64ac103fad4438e4331056c3ff",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable19",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable66",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "d_b": {
+          "type": "vec2",
+          "value": [
+            432,
+            192
+          ]
+        },
+        "d_a": {
+          "type": "vec2",
+          "value": [
+            432,
+            441
+          ]
+        },
+        "s_C": {
+          "type": "vec2",
+          "value": [
+            192,
+            1
+          ]
+        },
+        "d_C": {
+          "type": "vec2",
+          "value": [
+            441,
+            192
+          ]
+        },
+        "s_c": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "B": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "A": {
+          "type": "sampler2D",
+          "value": 1
+        }
+      },
+      "output": "Variable13"
+    },
+    {
+      "shader_name": "relu_8bf0b03cc958649370c41055e324db390c34d13376a5373d6ff9fb6d",
+      "inputs": [
+        {
+          "variable_name": "Variable13",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "texture_shape_x0": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "sampler_x0": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable14"
+    },
+    {
+      "shader_name": "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394",
+      "inputs": [
+        {
+          "variable_name": "Variable14",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "PW": {
+          "type": "int",
+          "value": 1
+        },
+        "PH": {
+          "type": "int",
+          "value": 1
+        },
+        "SW": {
+          "type": "int",
+          "value": 1
+        },
+        "SH": {
+          "type": "int",
+          "value": 1
+        },
+        "DW": {
+          "type": "int",
+          "value": 1
+        },
+        "DH": {
+          "type": "int",
+          "value": 1
+        },
+        "KW": {
+          "type": "int",
+          "value": 3
+        },
+        "KH": {
+          "type": "int",
+          "value": 3
+        },
+        "W1": {
+          "type": "int",
+          "value": 21
+        },
+        "H1": {
+          "type": "int",
+          "value": 21
+        },
+        "C1": {
+          "type": "int",
+          "value": 192
+        },
+        "s_Im": {
+          "type": "vec4",
+          "value": [
+            84672,
+            4032,
+            192,
+            1
+          ]
+        },
+        "d_Im": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            192
+          ]
+        },
+        "s_im": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "d_im": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "s_Col": {
+          "type": "vec4",
+          "value": [
+            762048,
+            36288,
+            1728,
+            1
+          ]
+        },
+        "d_Col": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            1728
+          ]
+        },
+        "s_col": {
+          "type": "vec2",
+          "value": [
+            4,
+            1728
+          ]
+        },
+        "im": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable68"
+    },
+    {
+      "shader_name": "sgemm_f96e1136c870e72e52efd8eef3eead64ac103fad4438e4331056c3ff",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable20",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable68",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "d_b": {
+          "type": "vec2",
+          "value": [
+            432,
+            192
+          ]
+        },
+        "d_a": {
+          "type": "vec2",
+          "value": [
+            432,
+            441
+          ]
+        },
+        "s_C": {
+          "type": "vec2",
+          "value": [
+            192,
+            1
+          ]
+        },
+        "d_C": {
+          "type": "vec2",
+          "value": [
+            441,
+            192
+          ]
+        },
+        "s_c": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "B": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "A": {
+          "type": "sampler2D",
+          "value": 1
+        }
+      },
+      "output": "Variable15"
+    },
+    {
+      "shader_name": "relu_8bf0b03cc958649370c41055e324db390c34d13376a5373d6ff9fb6d",
+      "inputs": [
+        {
+          "variable_name": "Variable15",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "texture_shape_x0": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "sampler_x0": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable16"
+    },
+    {
+      "shader_name": "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394",
+      "inputs": [
+        {
+          "variable_name": "Variable16",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "PW": {
+          "type": "int",
+          "value": 1
+        },
+        "PH": {
+          "type": "int",
+          "value": 1
+        },
+        "SW": {
+          "type": "int",
+          "value": 1
+        },
+        "SH": {
+          "type": "int",
+          "value": 1
+        },
+        "DW": {
+          "type": "int",
+          "value": 1
+        },
+        "DH": {
+          "type": "int",
+          "value": 1
+        },
+        "KW": {
+          "type": "int",
+          "value": 3
+        },
+        "KH": {
+          "type": "int",
+          "value": 3
+        },
+        "W1": {
+          "type": "int",
+          "value": 21
+        },
+        "H1": {
+          "type": "int",
+          "value": 21
+        },
+        "C1": {
+          "type": "int",
+          "value": 192
+        },
+        "s_Im": {
+          "type": "vec4",
+          "value": [
+            84672,
+            4032,
+            192,
+            1
+          ]
+        },
+        "d_Im": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            192
+          ]
+        },
+        "s_im": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "d_im": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "s_Col": {
+          "type": "vec4",
+          "value": [
+            762048,
+            36288,
+            1728,
+            1
+          ]
+        },
+        "d_Col": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            1728
+          ]
+        },
+        "s_col": {
+          "type": "vec2",
+          "value": [
+            4,
+            1728
+          ]
+        },
+        "im": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable70"
+    },
+    {
+      "shader_name": "sgemm_f96e1136c870e72e52efd8eef3eead64ac103fad4438e4331056c3ff",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable21",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable70",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "d_b": {
+          "type": "vec2",
+          "value": [
+            432,
+            192
+          ]
+        },
+        "d_a": {
+          "type": "vec2",
+          "value": [
+            432,
+            441
+          ]
+        },
+        "s_C": {
+          "type": "vec2",
+          "value": [
+            192,
+            1
+          ]
+        },
+        "d_C": {
+          "type": "vec2",
+          "value": [
+            441,
+            192
+          ]
+        },
+        "s_c": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "B": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "A": {
+          "type": "sampler2D",
+          "value": 1
+        }
+      },
+      "output": "Variable17"
+    },
+    {
+      "shader_name": "relu_8bf0b03cc958649370c41055e324db390c34d13376a5373d6ff9fb6d",
+      "inputs": [
+        {
+          "variable_name": "Variable17",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "texture_shape_x0": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "sampler_x0": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable18"
+    },
+    {
+      "shader_name": "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394",
+      "inputs": [
+        {
+          "variable_name": "Variable18",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "PW": {
+          "type": "int",
+          "value": 1
+        },
+        "PH": {
+          "type": "int",
+          "value": 1
+        },
+        "SW": {
+          "type": "int",
+          "value": 1
+        },
+        "SH": {
+          "type": "int",
+          "value": 1
+        },
+        "DW": {
+          "type": "int",
+          "value": 1
+        },
+        "DH": {
+          "type": "int",
+          "value": 1
+        },
+        "KW": {
+          "type": "int",
+          "value": 3
+        },
+        "KH": {
+          "type": "int",
+          "value": 3
+        },
+        "W1": {
+          "type": "int",
+          "value": 21
+        },
+        "H1": {
+          "type": "int",
+          "value": 21
+        },
+        "C1": {
+          "type": "int",
+          "value": 192
+        },
+        "s_Im": {
+          "type": "vec4",
+          "value": [
+            84672,
+            4032,
+            192,
+            1
+          ]
+        },
+        "d_Im": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            192
+          ]
+        },
+        "s_im": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "d_im": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "s_Col": {
+          "type": "vec4",
+          "value": [
+            762048,
+            36288,
+            1728,
+            1
+          ]
+        },
+        "d_Col": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            1728
+          ]
+        },
+        "s_col": {
+          "type": "vec2",
+          "value": [
+            4,
+            1728
+          ]
+        },
+        "im": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable72"
+    },
+    {
+      "shader_name": "sgemm_f96e1136c870e72e52efd8eef3eead64ac103fad4438e4331056c3ff",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable22",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable72",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "d_b": {
+          "type": "vec2",
+          "value": [
+            432,
+            192
+          ]
+        },
+        "d_a": {
+          "type": "vec2",
+          "value": [
+            432,
+            441
+          ]
+        },
+        "s_C": {
+          "type": "vec2",
+          "value": [
+            192,
+            1
+          ]
+        },
+        "d_C": {
+          "type": "vec2",
+          "value": [
+            441,
+            192
+          ]
+        },
+        "s_c": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "B": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "A": {
+          "type": "sampler2D",
+          "value": 1
+        }
+      },
+      "output": "Variable19"
+    },
+    {
+      "shader_name": "relu_8bf0b03cc958649370c41055e324db390c34d13376a5373d6ff9fb6d",
+      "inputs": [
+        {
+          "variable_name": "Variable19",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "texture_shape_x0": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "sampler_x0": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable20"
+    },
+    {
+      "shader_name": "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394",
+      "inputs": [
+        {
+          "variable_name": "Variable20",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "PW": {
+          "type": "int",
+          "value": 1
+        },
+        "PH": {
+          "type": "int",
+          "value": 1
+        },
+        "SW": {
+          "type": "int",
+          "value": 1
+        },
+        "SH": {
+          "type": "int",
+          "value": 1
+        },
+        "DW": {
+          "type": "int",
+          "value": 1
+        },
+        "DH": {
+          "type": "int",
+          "value": 1
+        },
+        "KW": {
+          "type": "int",
+          "value": 3
+        },
+        "KH": {
+          "type": "int",
+          "value": 3
+        },
+        "W1": {
+          "type": "int",
+          "value": 21
+        },
+        "H1": {
+          "type": "int",
+          "value": 21
+        },
+        "C1": {
+          "type": "int",
+          "value": 192
+        },
+        "s_Im": {
+          "type": "vec4",
+          "value": [
+            84672,
+            4032,
+            192,
+            1
+          ]
+        },
+        "d_Im": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            192
+          ]
+        },
+        "s_im": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "d_im": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "s_Col": {
+          "type": "vec4",
+          "value": [
+            762048,
+            36288,
+            1728,
+            1
+          ]
+        },
+        "d_Col": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            1728
+          ]
+        },
+        "s_col": {
+          "type": "vec2",
+          "value": [
+            4,
+            1728
+          ]
+        },
+        "im": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable74"
+    },
+    {
+      "shader_name": "sgemm_f96e1136c870e72e52efd8eef3eead64ac103fad4438e4331056c3ff",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable23",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable74",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "d_b": {
+          "type": "vec2",
+          "value": [
+            432,
+            192
+          ]
+        },
+        "d_a": {
+          "type": "vec2",
+          "value": [
+            432,
+            441
+          ]
+        },
+        "s_C": {
+          "type": "vec2",
+          "value": [
+            192,
+            1
+          ]
+        },
+        "d_C": {
+          "type": "vec2",
+          "value": [
+            441,
+            192
+          ]
+        },
+        "s_c": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "B": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "A": {
+          "type": "sampler2D",
+          "value": 1
+        }
+      },
+      "output": "Variable21"
+    },
+    {
+      "shader_name": "relu_8bf0b03cc958649370c41055e324db390c34d13376a5373d6ff9fb6d",
+      "inputs": [
+        {
+          "variable_name": "Variable21",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "texture_shape_x0": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "sampler_x0": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable22"
+    },
+    {
+      "shader_name": "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394",
+      "inputs": [
+        {
+          "variable_name": "Variable22",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "PW": {
+          "type": "int",
+          "value": 1
+        },
+        "PH": {
+          "type": "int",
+          "value": 1
+        },
+        "SW": {
+          "type": "int",
+          "value": 1
+        },
+        "SH": {
+          "type": "int",
+          "value": 1
+        },
+        "DW": {
+          "type": "int",
+          "value": 1
+        },
+        "DH": {
+          "type": "int",
+          "value": 1
+        },
+        "KW": {
+          "type": "int",
+          "value": 3
+        },
+        "KH": {
+          "type": "int",
+          "value": 3
+        },
+        "W1": {
+          "type": "int",
+          "value": 21
+        },
+        "H1": {
+          "type": "int",
+          "value": 21
+        },
+        "C1": {
+          "type": "int",
+          "value": 192
+        },
+        "s_Im": {
+          "type": "vec4",
+          "value": [
+            84672,
+            4032,
+            192,
+            1
+          ]
+        },
+        "d_Im": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            192
+          ]
+        },
+        "s_im": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "d_im": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "s_Col": {
+          "type": "vec4",
+          "value": [
+            762048,
+            36288,
+            1728,
+            1
+          ]
+        },
+        "d_Col": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            1728
+          ]
+        },
+        "s_col": {
+          "type": "vec2",
+          "value": [
+            4,
+            1728
+          ]
+        },
+        "im": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable76"
+    },
+    {
+      "shader_name": "sgemm_f96e1136c870e72e52efd8eef3eead64ac103fad4438e4331056c3ff",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable24",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable76",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "d_b": {
+          "type": "vec2",
+          "value": [
+            432,
+            192
+          ]
+        },
+        "d_a": {
+          "type": "vec2",
+          "value": [
+            432,
+            441
+          ]
+        },
+        "s_C": {
+          "type": "vec2",
+          "value": [
+            192,
+            1
+          ]
+        },
+        "d_C": {
+          "type": "vec2",
+          "value": [
+            441,
+            192
+          ]
+        },
+        "s_c": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "B": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "A": {
+          "type": "sampler2D",
+          "value": 1
+        }
+      },
+      "output": "Variable23"
+    },
+    {
+      "shader_name": "relu_8bf0b03cc958649370c41055e324db390c34d13376a5373d6ff9fb6d",
+      "inputs": [
+        {
+          "variable_name": "Variable23",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "texture_shape_x0": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "sampler_x0": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable24"
+    },
+    {
+      "shader_name": "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394",
+      "inputs": [
+        {
+          "variable_name": "Variable24",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "PW": {
+          "type": "int",
+          "value": 0
+        },
+        "PH": {
+          "type": "int",
+          "value": 0
+        },
+        "SW": {
+          "type": "int",
+          "value": 1
+        },
+        "SH": {
+          "type": "int",
+          "value": 1
+        },
+        "DW": {
+          "type": "int",
+          "value": 1
+        },
+        "DH": {
+          "type": "int",
+          "value": 1
+        },
+        "KW": {
+          "type": "int",
+          "value": 3
+        },
+        "KH": {
+          "type": "int",
+          "value": 3
+        },
+        "W1": {
+          "type": "int",
+          "value": 21
+        },
+        "H1": {
+          "type": "int",
+          "value": 21
+        },
+        "C1": {
+          "type": "int",
+          "value": 192
+        },
+        "s_Im": {
+          "type": "vec4",
+          "value": [
+            84672,
+            4032,
+            192,
+            1
+          ]
+        },
+        "d_Im": {
+          "type": "vec4",
+          "value": [
+            1,
+            21,
+            21,
+            192
+          ]
+        },
+        "s_im": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "d_im": {
+          "type": "vec2",
+          "value": [
+            4096,
+            21
+          ]
+        },
+        "s_Col": {
+          "type": "vec4",
+          "value": [
+            623808,
+            32832,
+            1728,
+            1
+          ]
+        },
+        "d_Col": {
+          "type": "vec4",
+          "value": [
+            1,
+            19,
+            19,
+            1728
+          ]
+        },
+        "s_col": {
+          "type": "vec2",
+          "value": [
+            4,
+            1728
+          ]
+        },
+        "im": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable78"
+    },
+    {
+      "shader_name": "sgemm_f96e1136c870e72e52efd8eef3eead64ac103fad4438e4331056c3ff",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable25",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable78",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "d_b": {
+          "type": "vec2",
+          "value": [
+            432,
+            192
+          ]
+        },
+        "d_a": {
+          "type": "vec2",
+          "value": [
+            432,
+            361
+          ]
+        },
+        "s_C": {
+          "type": "vec2",
+          "value": [
+            192,
+            1
+          ]
+        },
+        "d_C": {
+          "type": "vec2",
+          "value": [
+            361,
+            192
+          ]
+        },
+        "s_c": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "B": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "A": {
+          "type": "sampler2D",
+          "value": 1
+        }
+      },
+      "output": "Variable25"
+    },
+    {
+      "shader_name": "relu_8bf0b03cc958649370c41055e324db390c34d13376a5373d6ff9fb6d",
+      "inputs": [
+        {
+          "variable_name": "Variable25",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "texture_shape_x0": {
+          "type": "vec2",
+          "value": [
+            4096,
+            17
+          ]
+        },
+        "sampler_x0": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable26"
+    },
+    {
+      "shader_name": "im2col_bf18af203407aa8ca8842eedd9a394a955a522d5e39ea8fb17d0e394",
+      "inputs": [
+        {
+          "variable_name": "Variable26",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "PW": {
+          "type": "int",
+          "value": 0
+        },
+        "PH": {
+          "type": "int",
+          "value": 0
+        },
+        "SW": {
+          "type": "int",
+          "value": 1
+        },
+        "SH": {
+          "type": "int",
+          "value": 1
+        },
+        "DW": {
+          "type": "int",
+          "value": 1
+        },
+        "DH": {
+          "type": "int",
+          "value": 1
+        },
+        "KW": {
+          "type": "int",
+          "value": 1
+        },
+        "KH": {
+          "type": "int",
+          "value": 1
+        },
+        "W1": {
+          "type": "int",
+          "value": 19
+        },
+        "H1": {
+          "type": "int",
+          "value": 19
+        },
+        "C1": {
+          "type": "int",
+          "value": 192
+        },
+        "s_Im": {
+          "type": "vec4",
+          "value": [
+            69312,
+            3648,
+            192,
+            1
+          ]
+        },
+        "d_Im": {
+          "type": "vec4",
+          "value": [
+            1,
+            19,
+            19,
+            192
+          ]
+        },
+        "s_im": {
+          "type": "vec2",
+          "value": [
+            1,
+            4096
+          ]
+        },
+        "d_im": {
+          "type": "vec2",
+          "value": [
+            4096,
+            17
+          ]
+        },
+        "s_Col": {
+          "type": "vec4",
+          "value": [
+            69312,
+            3648,
+            192,
+            1
+          ]
+        },
+        "d_Col": {
+          "type": "vec4",
+          "value": [
+            1,
+            19,
+            19,
+            192
+          ]
+        },
+        "s_col": {
+          "type": "vec2",
+          "value": [
+            4,
+            192
+          ]
+        },
+        "im": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable80"
+    },
+    {
+      "shader_name": "sgemm_bdf2e03341da62d8ca97bad39877eb72c2ec7a691d57610d4ad83236",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable26",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable80",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "d_b": {
+          "type": "vec2",
+          "value": [
+            48,
+            1
+          ]
+        },
+        "d_a": {
+          "type": "vec2",
+          "value": [
+            48,
+            361
+          ]
+        },
+        "s_C": {
+          "type": "vec2",
+          "value": [
+            1,
+            1
+          ]
+        },
+        "d_C": {
+          "type": "vec2",
+          "value": [
+            361,
+            1
+          ]
+        },
+        "s_c": {
+          "type": "vec2",
+          "value": [
+            1,
+            361
+          ]
+        },
+        "B": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "A": {
+          "type": "sampler2D",
+          "value": 1
+        }
+      },
+      "output": "Variable27"
+    },
+    {
+      "shader_name": "reshape_4c29b12b0d5407a59038acc11bd8c169f7e7e7758be69c25c9b25116",
+      "inputs": [
+        {
+          "variable_name": "Variable27",
+          "value": 0
+        }
+      ],
+      "uniforms": {
+        "s_x": {
+          "type": "vec2",
+          "value": [
+            1,
+            361
+          ]
+        },
+        "d_x": {
+          "type": "vec2",
+          "value": [
+            361,
+            1
+          ]
+        },
+        "s_y": {
+          "type": "vec2",
+          "value": [
+            1,
+            361
+          ]
+        },
+        "X": {
+          "type": "sampler2D",
+          "value": 0
+        }
+      },
+      "output": "Variable28"
+    },
+    {
+      "shader_name": "elementwiseadd_30afc3ec75b3c547f44e699cd93b388f2c03680e2e90441d4f96d963",
+      "inputs": [
+        {
+          "variable_name": "ConstantVariable13",
+          "value": 0
+        },
+        {
+          "variable_name": "Variable28",
+          "value": 1
+        }
+      ],
+      "uniforms": {
+        "variable_stride_x1": {
+          "type": "vec4",
+          "value": [
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "variable_shape_x1": {
+          "type": "vec4",
+          "value": [
+            361,
+            1,
+            1,
+            1
+          ]
+        },
+        "texture_stride_x1": {
+          "type": "vec2",
+          "value": [
+            1,
+            361
+          ]
+        },
+        "texture_shape_x1": {
+          "type": "vec2",
+          "value": [
+            361,
+            1
+          ]
+        },
+        "sampler_x1": {
+          "type": "sampler2D",
+          "value": 0
+        },
+        "variable_stride_x0": {
+          "type": "vec4",
+          "value": [
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "variable_shape_x0": {
+          "type": "vec4",
+          "value": [
+            361,
+            1,
+            1,
+            1
+          ]
+        },
+        "texture_stride_x0": {
+          "type": "vec2",
+          "value": [
+            1,
+            361
+          ]
+        },
+        "texture_shape_x0": {
+          "type": "vec2",
+          "value": [
+            361,
+            1
+          ]
+        },
+        "sampler_x0": {
+          "type": "sampler2D",
+          "value": 1
+        },
+        "variable_stride_y": {
+          "type": "vec4",
+          "value": [
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "variable_shape_y": {
+          "type": "vec4",
+          "value": [
+            361,
+            1,
+            1,
+            1
+          ]
+        },
+        "texture_stride_y": {
+          "type": "vec2",
+          "value": [
+            1,
+            361
+          ]
+        }
+      },
+      "output": "Variable29"
+    }
+  ],
+  "constants_map": {
+    "ConstantVariable14": {
+      "byte_offset": 0,
+      "size": 230400
+    },
+    "ConstantVariable15": {
+      "byte_offset": 921600,
+      "size": 331776
+    },
+    "ConstantVariable16": {
+      "byte_offset": 2248704,
+      "size": 331776
+    },
+    "ConstantVariable17": {
+      "byte_offset": 3575808,
+      "size": 331776
+    },
+    "ConstantVariable18": {
+      "byte_offset": 4902912,
+      "size": 331776
+    },
+    "ConstantVariable19": {
+      "byte_offset": 6230016,
+      "size": 331776
+    },
+    "ConstantVariable20": {
+      "byte_offset": 7557120,
+      "size": 331776
+    },
+    "ConstantVariable21": {
+      "byte_offset": 8884224,
+      "size": 331776
+    },
+    "ConstantVariable22": {
+      "byte_offset": 10211328,
+      "size": 331776
+    },
+    "ConstantVariable23": {
+      "byte_offset": 11538432,
+      "size": 331776
+    },
+    "ConstantVariable24": {
+      "byte_offset": 12865536,
+      "size": 331776
+    },
+    "ConstantVariable25": {
+      "byte_offset": 14192640,
+      "size": 331776
+    },
+    "ConstantVariable26": {
+      "byte_offset": 15519744,
+      "size": 192
+    },
+    "ConstantVariable13": {
+      "byte_offset": 15520512,
+      "size": 361
+    }
+  },
+  "licenses": {
+    "webdnn": "(C) Machine Intelligence Laboratory (The University of Tokyo), MIT License"
+  }
+}

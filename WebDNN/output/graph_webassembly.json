@@ -1,0 +1,266 @@
+{
+  "weight_encoding": "raw",
+  "memory_layout": {
+    "static": {
+      "size": 4744537,
+      "allocations": {
+        "a85": {
+          "name": "a85",
+          "offset": 4727209,
+          "size": 17328
+        },
+        "a87": {
+          "name": "a87",
+          "offset": 3880489,
+          "size": 433200
+        },
+        "a126": {
+          "name": "a126",
+          "offset": 4642537,
+          "size": 69312
+        },
+        "a90": {
+          "name": "a90",
+          "offset": 3880489,
+          "size": 762048
+        },
+        "a127": {
+          "name": "a127",
+          "offset": 4642537,
+          "size": 84672
+        },
+        "a93": {
+          "name": "a93",
+          "offset": 3880489,
+          "size": 762048
+        },
+        "a128": {
+          "name": "a128",
+          "offset": 4642537,
+          "size": 84672
+        },
+        "a96": {
+          "name": "a96",
+          "offset": 3880489,
+          "size": 762048
+        },
+        "a129": {
+          "name": "a129",
+          "offset": 4642537,
+          "size": 84672
+        },
+        "a99": {
+          "name": "a99",
+          "offset": 3880489,
+          "size": 762048
+        },
+        "a130": {
+          "name": "a130",
+          "offset": 4642537,
+          "size": 84672
+        },
+        "a102": {
+          "name": "a102",
+          "offset": 3880489,
+          "size": 762048
+        },
+        "a131": {
+          "name": "a131",
+          "offset": 4642537,
+          "size": 84672
+        },
+        "a105": {
+          "name": "a105",
+          "offset": 3880489,
+          "size": 762048
+        },
+        "a132": {
+          "name": "a132",
+          "offset": 4642537,
+          "size": 84672
+        },
+        "a108": {
+          "name": "a108",
+          "offset": 3880489,
+          "size": 762048
+        },
+        "a133": {
+          "name": "a133",
+          "offset": 4642537,
+          "size": 84672
+        },
+        "a111": {
+          "name": "a111",
+          "offset": 3880489,
+          "size": 762048
+        },
+        "a134": {
+          "name": "a134",
+          "offset": 4642537,
+          "size": 84672
+        },
+        "a114": {
+          "name": "a114",
+          "offset": 3880489,
+          "size": 762048
+        },
+        "a135": {
+          "name": "a135",
+          "offset": 4642537,
+          "size": 84672
+        },
+        "a117": {
+          "name": "a117",
+          "offset": 3880489,
+          "size": 762048
+        },
+        "a136": {
+          "name": "a136",
+          "offset": 4642537,
+          "size": 84672
+        },
+        "a120": {
+          "name": "a120",
+          "offset": 3880489,
+          "size": 623808
+        },
+        "a137": {
+          "name": "a137",
+          "offset": 4504297,
+          "size": 69312
+        },
+        "a140": {
+          "name": "a140",
+          "offset": 4573609,
+          "size": 361
+        },
+        "a71": {
+          "name": "a71",
+          "offset": 0,
+          "size": 230400
+        },
+        "a72": {
+          "name": "a72",
+          "offset": 230400,
+          "size": 331776
+        },
+        "a73": {
+          "name": "a73",
+          "offset": 562176,
+          "size": 331776
+        },
+        "a74": {
+          "name": "a74",
+          "offset": 893952,
+          "size": 331776
+        },
+        "a75": {
+          "name": "a75",
+          "offset": 1225728,
+          "size": 331776
+        },
+        "a76": {
+          "name": "a76",
+          "offset": 1557504,
+          "size": 331776
+        },
+        "a77": {
+          "name": "a77",
+          "offset": 1889280,
+          "size": 331776
+        },
+        "a78": {
+          "name": "a78",
+          "offset": 2221056,
+          "size": 331776
+        },
+        "a79": {
+          "name": "a79",
+          "offset": 2552832,
+          "size": 331776
+        },
+        "a80": {
+          "name": "a80",
+          "offset": 2884608,
+          "size": 331776
+        },
+        "a81": {
+          "name": "a81",
+          "offset": 3216384,
+          "size": 331776
+        },
+        "a82": {
+          "name": "a82",
+          "offset": 3548160,
+          "size": 331776
+        },
+        "a83": {
+          "name": "a83",
+          "offset": 3879936,
+          "size": 192
+        },
+        "a84": {
+          "name": "a84",
+          "offset": 3880128,
+          "size": 361
+        }
+      }
+    },
+    "dynamic": {
+      "size": 0,
+      "allocations": {}
+    }
+  },
+  "placeholders": {},
+  "unresolved_value_lists": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "inputs": [
+    "a85"
+  ],
+  "outputs": [
+    "a140"
+  ],
+  "licenses": {
+    "webdnn": "(C) Machine Intelligence Laboratory (The University of Tokyo), MIT License",
+    "eigen": "(C) Eigen authors, MPL 2.0 License"
+  }
+}

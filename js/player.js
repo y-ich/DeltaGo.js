@@ -2,6 +2,16 @@
 /* global GoPosition:false, BoardController:false */
 // (C) 2017 ICHIKAWA, Yuji (New 3 Rs)
 
+function softMaxCPU(vec) {
+  let max = vec.reduce((max, v) => Math.max(max, v))
+
+  let expDelta = vec.map(v => Math.exp(v - max));
+  let sumExpDelta = expDelta.reduce((sum, e) => sum + e);
+  let result = expDelta.map(e => e / sumExpDelta);
+
+  return result;
+}
+
 class PlayController {
     constructor(model, cnn, board) {
         this.model = model;
@@ -19,10 +29,14 @@ class PlayController {
             const start = Date.now();
             const feature = this.model.getFeatures();
             //console.log(feature.toString());
-            const { output } = await this.cnn.predict({
-                input: feature.transpose()
-            });
+            this.cnn.getInputViews()[0].set(feature.transpose());
+            await this.cnn.run();
+            let output = this.cnn.getOutputViews()[0].toActual();
+            if (this.cnn.backendName === 'webgl') {
+                output = softMaxCPU(output);
+            }
             console.log(Date.now() - start);
+            console.log(output);
             const xy = this.selectMove(output, feature);
             //console.log(xy);
             if (xy) {
@@ -68,18 +82,9 @@ class PlayController {
     }
 }
 
-const cnnPromise = (async function() {
-    const cnn = new window.KerasJS.Model({
-        filepaths: {
-            model: 'models/deltago.json',
-            weights: 'models/deltago_weights.buf',
-            metadata: 'models/deltago_metadata.json'
-        },
-        gpu: !/iPhone|iPad/.test(navigator.userAgent) // iOS10ではweblasが動かない
-    });
-    await cnn.ready();
-    return cnn;
-})();
+const cnnPromise = WebDNN.load('./WebDNN/output', {
+    backendOrder: ['webgpu', 'webgl', 'webassembly']
+});
 
 const conditionPromise = new Promise(function(res, rej) {
     const $startModal = $('#start-modal');
@@ -95,6 +100,7 @@ const conditionPromise = new Promise(function(res, rej) {
 
 Promise.all([cnnPromise, conditionPromise]).then(function(data) {
     const cnn = data[0];
+    console.log(cnn.backendName);
     const color = data[1].color === 'B' ? JGO.BLACK : JGO.WHITE;
     const handicap = parseInt(data[1].handicap);
     const model = new GoPosition(19, handicap);
