@@ -77,7 +77,7 @@ class BoardController {
         }
     }
 
-    play(coord) {
+    play(coord, sound = false) {
         const play = this.jboard.playMove(coord, this.turn, this.ko);
         if (!play.success) {
             console.log(coord, play);
@@ -106,6 +106,9 @@ class BoardController {
         this.turn = this.turn === JGO.BLACK ? JGO.WHITE : JGO.BLACK;
         this.passNum = 0;
         this.update(coord);
+        if (sound) {
+            stoneSound.play();
+        }
         return play.success;
     }
 

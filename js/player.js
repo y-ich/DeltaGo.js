@@ -40,7 +40,7 @@ class PlayController {
             const xy = this.selectMove(output, feature);
             //console.log(xy);
             if (xy) {
-                this.board.play(new JGO.Coordinate(xy[0] - 1, xy[1] - 1));
+                this.board.play(new JGO.Coordinate(xy[0] - 1, xy[1] - 1), true);
             } else {
                 this.board.pass();
             }
